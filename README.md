@@ -32,6 +32,7 @@ We would incorporate different food features based on the Tesco dataset.
 We have yet to determine how we will split the tasks, but the way we usually work is that we have a beginning-of-the-week meeting to determine who is free to start advancing on the task. Then, once that person has reached a milestone, the next person takes up the work. And so forth. Here, since the imporant part to get us running is to do the data pre-processing, we will all actively contribute to this task. Once this is done, we will split up the work depending on our availabilities and interests. 
 
 # Questions for TAs (optional)
+Note : the datasets contained in the repo will serve as our data for this part. We decided to include them so we would have them regrouped in a particular area. 
 
 
 # Stuff copied from Google doc:
