@@ -7,12 +7,12 @@ Quality of life has become a very valuable factor, as a lot of research has been
  Can we estimate the weights of HLQI based on statistical models (such as principle component anallysis) created with Greater London ward data?
 # Proposed dataset
 We want to incorporate various features collected in the dataset ward-atlas-data (https://data.london.gov.uk/dataset/ward-profiles-and-atlas) and aggregate them in the above factors. For instance we have these ideas to calculate them:
-education : namely, the GCSE scores (national test scores in england), Overall un-authorized absences in school 
-health : life expectancy, diabetes, obesity.. 
-jobs / work/life balance : income, unemployment rate, education-level for working group, unemployment benefit claims, 
-Safety factors: assault incidents attended by ambulances, robbery incidents, 
-Environmental factors: Annual mean of particle matters found, homes with access to green spaces
-Community : ethical diversity (will be calculated with demographics data)
+* education : namely, the GCSE scores (national test scores in england), Overall un-authorized absences in school 
+* health : life expectancy, diabetes, obesity.. 
+* jobs / work/life balance : income, unemployment rate, education-level for working group, unemployment benefit claims, 
+* Safety factors: assault incidents attended by ambulances, robbery incidents, 
+* Environmental factors: Annual mean of particle matters found, homes with access to green spaces
+* Community : ethical diversity (will be calculated with demographics data)
 We would incorporate different food features based on the Tesco dataset.
 # Methods
 # Proposed timeline
