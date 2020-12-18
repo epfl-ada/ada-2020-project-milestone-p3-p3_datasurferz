@@ -9,8 +9,11 @@ We employ techniques as suggested in [Tools for Composite Indicators Building](h
 
 # Research Questions
  Can we create a custom-made indicator to predict objective life quality at the ward level in Greater London?
+ 
  Does adding food factors (like food entropy, fibers) make an improvement (statistically important) to the our index?
+ 
  Can we estimate the weights of ALDI based on statistical models (such as principle component analysis) created with Greater London ward data?
+ 
  Can we validate this data on subjective well-being datasets found online at both the ward and borough levels ?
  
 # Proposed dataset
