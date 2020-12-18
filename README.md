@@ -4,6 +4,8 @@ You can find our data story [here](https://charlyneburki.github.io/The-ALDI/).
 
 The template of the website is taken from Dean Attali's [Beautiful Jekyll](https://beautifuljekyll.com/).
 
+Note that our notebook is titled p4. it contains our full data analysis. the notebook interactive map contains the code used to implement our interactive map. 
+
 ## Abstract
 Quality of life has become a very valuable factor, as a lot of research has been dedicated on improving humans' life standards. Recently, indicators such as HDI (Human Development Index) or customized indices like the OECD “Better Life Index” have emerged to account for other facets of life rather than the previously popular income factor (measured by GDP per capita). With this project we propose a novel well-being index called "Advanced Life Development Index" (ALDI), which takes into account health, education, environment, life satisfaction, safety, food consumption and other features in order to measure the overall quality of life in each ward of Greater London. To compute the ALDI we estimate the weights of each factor based on its relavance of quality of life and its correlation with the rest of the features. We will incorporate notably nutrition statistics and attempt to measure whether it is a good addition. 
 
