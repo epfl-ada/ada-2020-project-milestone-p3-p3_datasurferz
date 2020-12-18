@@ -14,7 +14,7 @@ We employ techniques as suggested in [Tools for Composite Indicators Building](h
  Can we validate this data on subjective well-being datasets found online at both the ward and borough levels ?
  
 # Proposed dataset
-We incorporate various features collected in the dataset [ward-atlas-data] (https://data.london.gov.uk/dataset/ward-profiles-and-atlas) and aggregate them in the above factors. For instance we use the following (more detailed explanations in the p4 notebook):
+We incorporate various features collected in the dataset [ward atlas data] (https://data.london.gov.uk/dataset/ward-profiles-and-atlas) and aggregate them in the above factors. For instance we use the following (more detailed explanations in the p4 notebook):
 * education : namely, the GCSE scores (national test scores in england), Overall un-authorized absences in school 
 * health : life expectancy, diabetes, obesity.. 
 * jobs / work/life balance : income, unemployment rate, education-level for working group, unemployment benefit claims, 
